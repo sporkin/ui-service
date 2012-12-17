@@ -1,0 +1,17 @@
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: sporkin_ui_service_development
+  pool: 5
+  username: sporkin
+  password: 1111
+
+test:
+  host: localhost  
+  adapter: postgresql
+  encoding: unicode
+  database: sporkin_ui_service_test
+  pool: 5
+  username: sporkin
+  password: 1111

@@ -1,0 +1,11 @@
+production:
+  RABBIT_MQ_HOST: 127.0.0.1
+
+staging:
+  RABBIT_MQ_HOST: 127.0.0.1
+
+development:
+  RABBIT_MQ_HOST: 127.0.0.1
+
+test:
+  RABBIT_MQ_HOST: 127.0.0.1
