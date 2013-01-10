@@ -1,4 +1,4 @@
 ui-service
 ==========
 
-sporkin user service
+sporkin user service.
